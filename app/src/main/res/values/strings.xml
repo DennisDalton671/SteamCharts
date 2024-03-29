@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SteamCharts</string>
+    <string name="STEAM_BASE_URL">https://api.steampowered.com/</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Loading Failed</string>
+    <string name="retry">retry</string>
+</resources>
