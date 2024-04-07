@@ -159,6 +159,11 @@ class HomeScreen(
                     colors = ButtonDefaults.buttonColors(containerColor = steamLightBlue)) {
                     Text(text = "View Player Counts", color = textColor)
                 }
+                Button (
+                    onClick = { homeScreenViewModel.resetData()},
+                    colors = ButtonDefaults.buttonColors(containerColor = steamLightBlue)) {
+                    Text(text = "Reset Data", color = textColor)
+                }
                 // Add more content or features as needed
             }
         }

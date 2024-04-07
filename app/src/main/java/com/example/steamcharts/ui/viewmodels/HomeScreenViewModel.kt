@@ -29,6 +29,16 @@ class HomeScreenViewModel(private val repository: SteamRepositoryApi) : ViewMode
         }
     }
 
+    fun resetData() {
+        _isLoading.postValue(true)
+        viewModelScope.launch(Dispatchers.IO) {
+            repository.populateDatabase()
+            val gamesList = SteamApplication.database?.gameDao()?.getTop5Games() ?: emptyList()
+            _topGamesLiveData.postValue(gamesList)
+            _isLoading.postValue(false)
+        }
+    }
+
     private suspend fun initializeDatabaseIfNeeded() {
         if (repository.isDatabaseEmpty()) {
             repository.populateDatabase()
