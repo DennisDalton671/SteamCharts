@@ -6,9 +6,9 @@ The Steam Charts Android application provides a seamless interface for gamers an
 
 ## Features
 
-- **Real-Time Statistics**: Access live player counts to gauge the popularity and activity of Steam games.
-- **Game Details**: Explore detailed descriptions and background information for a better understanding of each game.
-- **Community Reviews**: Check out Steam's review scores to help decide your next game purchase.
+- **Real-Time Player Counts**: Track live player counts to determine the current activity levels and popularity of Steam games.
+- **Game Descriptions**: Browse through the concise descriptions provided by Steam to get a quick overview of what each game offers.
+- **Recent Review Scores**: Consult the latest review scores from Steam to get an idea of the community's current opinions on a game.
 - **Pricing Insights**: Stay informed about game prices, including any active discounts and offers.
 
 ## Getting Started
