@@ -13,9 +13,22 @@ Here's a look at the homescreen of Steam Charts:
 ## Features
 
 - **Real-Time Player Counts**: Track live player counts to determine the current activity levels and popularity of Steam games.
+  
 - **Game Descriptions**: Browse through the concise descriptions provided by Steam to get a quick overview of what each game offers.
+
+  <div align="center">
+    <img src = "https://github.com/DennisDalton671/SteamCharts/blob/master/images/SteamCharts_GameDetails.jpg" alt = "HomeScreen Image" width = "300" height = "600">
+  </div>
+
 - **Recent Review Scores**: Consult the latest review scores from Steam to get an idea of the community's current opinions on a game.
+  
 - **Pricing Insights**: Stay informed about game prices, including any active discounts and offers.
+
+- **Search Feature**: Use the search function to find any game available on Steam.
+
+  <div align="center">
+    <img src = "https://github.com/DennisDalton671/SteamCharts/blob/master/images/SteamCharts_SearchBar.jpg" alt = "HomeScreen Image" width = "300" height = "600">
+  </div>
 
 ## Getting Started
 
