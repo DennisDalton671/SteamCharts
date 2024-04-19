@@ -5,7 +5,7 @@
 The Steam Charts Android application provides a seamless interface for gamers and enthusiasts to track the statistics of Steam games. Using the power of real-time data, users can search and view the player counts, game details, reviews, pricing, and discounts, offering an in-depth look into the gaming trends and preferences.
 
 Here's a look at the homescreen of Steam Charts:
-![Homescreen](images/SteamCharts_HomeScreen.png)
+![Homescreen](images/SteamCharts_HomeScreen.jpg)
 
 ## Features
 
