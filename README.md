@@ -6,7 +6,9 @@ The Steam Charts Android application provides a seamless interface for gamers an
 
 Here's a look at the homescreen of Steam Charts:
 
-<img src = "https://github.com/DennisDalton671/SteamCharts/blob/master/images/SteamCharts_HomeScreen.jpg" alt = "HomeScreen Image" width = "300" height = "600">
+<div align="center">
+  <img src = "https://github.com/DennisDalton671/SteamCharts/blob/master/images/SteamCharts_HomeScreen.jpg" alt = "HomeScreen Image" width = "300" height = "600">
+</div>
 
 ## Features
 
